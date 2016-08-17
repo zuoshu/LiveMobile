@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cover_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:fitsSystemWindows="true">
+
+    <TextView
+        android:id="@+id/mode_choose_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="185dp"
+        android:text="@string/mode_choose"
+        android:textColor="@android:color/white"
+        android:textSize="26sp" />
+
+    <RelativeLayout
+        android:id="@+id/mode_choose_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mode_choose_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="71dp">
+
+        <RelativeLayout
+            android:id="@+id/filter_layout"
+            android:layout_width="102dp"
+            android:layout_height="41dp"
+            android:background="@drawable/ic_solid_round">
+
+            <ImageView
+                android:id="@+id/filter_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="23dp"
+                android:background="@drawable/ic_filter_pressed" />
+
+            <TextView
+                android:id="@+id/filter_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6dp"
+                android:layout_toRightOf="@id/filter_image"
+                android:text="@string/filter"
+                android:textColor="@color/color_black_2e2625"
+                android:textSize="18sp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/normal_layout"
+            android:layout_width="102dp"
+            android:layout_height="41dp"
+            android:layout_marginLeft="20dp"
+            android:layout_toRightOf="@id/filter_layout"
+            android:background="@drawable/ic_round_hole">
+
+            <ImageView
+                android:id="@+id/normal_image_mode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="23dp"
+                android:background="@drawable/ic_normal_mode" />
+
+            <TextView
+                android:id="@+id/normal_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="6dp"
+                android:layout_toRightOf="@id/normal_image_mode"
+                android:text="@string/normal"
+                android:textColor="@color/color_black_CCffffff"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/start_live_btn"
+        android:layout_width="229dp"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="75dp"
+        android:background="@drawable/ic_blue_round"
+        android:text="@string/start_live"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+</RelativeLayout>

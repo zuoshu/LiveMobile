@@ -1,0 +1,4 @@
+include ':common'
+project(':common').projectDir = new File(settingsDir, '../common')
+include ':Lobby'
+project(':Lobby').projectDir = new File(settingsDir, 'app')

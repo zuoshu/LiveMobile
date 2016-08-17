@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <style name="Theme.App.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:windowBackground">@color/background_lv1</item>
+        <item name="colorPrimary">@color/theme</item>
+        <item name="colorPrimaryDark">@color/theme</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+    <style name="Theme.App" parent="Theme.App.Base" />
+
+    <style name="Theme.App.FullScreen" parent="Theme.App.Base">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.App.Translucent" parent="Theme.App.Base">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+</resources>

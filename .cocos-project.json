@@ -1,0 +1,8 @@
+{
+    "engine_version": "cocos2d-x-3.11.1",
+    "android_cfg": {
+        "project_path": "proj.android/huapai",
+        "studio_proj_path" : "proj.android-studio/huapai"
+    },
+    "project_type": "cpp"
+}

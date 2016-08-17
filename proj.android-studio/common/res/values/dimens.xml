@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ex_super_text">48sp</dimen>
+
+    <dimen name="super_text">40sp</dimen>
+
+    <dimen name="exxlarge_text">24sp</dimen>
+
+    <dimen name="exlarge_text">21sp</dimen>
+
+    <dimen name="large_text">19sp</dimen>
+    <!-- 24pt -->
+    <dimen name="primary_text">16sp</dimen>
+    <!-- 22pt 20pt -->
+    <dimen name="secondary_text">14sp</dimen>
+    <!-- 18pt -->
+    <dimen name="tertiary_text">12sp</dimen>
+    <!-- 16pt -->
+    <dimen name="mini_text">10sp</dimen>
+
+    <dimen name="tiny_text">8sp</dimen>
+
+    <dimen name="image_border_width">1px</dimen>
+    <dimen name="button_border_width">1sp</dimen>
+
+    <!--<dimen name="category_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="category_grid_vertical_spacing">17dp</dimen>-->
+    <!--<dimen name="category_grid_horizontal_spacing">10dp</dimen>-->
+    <!--<dimen name="my_download_book_grid_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="editable_category_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="grid_title_margin_top">5dp</dimen>-->
+    <!--<dimen name="grid_title_height">30dp</dimen>-->
+
+    <!--<dimen name="recommend_title_margin_top">3dp</dimen>-->
+    <!--<dimen name="recommend_title_height">15dp</dimen>-->
+    <!--<dimen name="recommend_grid_vertical_spacing">10dp</dimen>-->
+
+    <!--<dimen name="hot_new_book_title_margin_top">3dp</dimen>-->
+    <!--<dimen name="hot_new_book_title_height">15dp</dimen>-->
+
+    <!--<dimen name="book_grid_title_margin_top">5dp</dimen>-->
+
+    <!--<dimen name="local_book_title_margin_top">10dp</dimen>-->
+    <!--<dimen name="local_book_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="local_book_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="local_book_grid_vertical_spacing">17dp</dimen>-->
+    <!--<dimen name="local_book_title_height">30dp</dimen>-->
+
+    <!--<dimen name="rank_image_margin_left">10dp</dimen>-->
+    <!--<dimen name="rank_image_margin_top">15dp</dimen>-->
+
+    <!--<dimen name="category_cover_width">104dp</dimen>-->
+    <!--<dimen name="category_cover_height">104dp</dimen>-->
+
+    <!--<dimen name="round_image_radius">7dp</dimen>-->
+
+    <!--<dimen name="list_cover_width">70dp</dimen>-->
+    <!--<dimen name="list_cover_height">93dp</dimen>-->
+
+    <!--<dimen name="play_list_cover_width">107dp</dimen>-->
+    <!--<dimen name="play_list_cover_height">80dp</dimen>-->
+
+    <!--<dimen name="book_cover_width">90dp</dimen>-->
+    <!--<dimen name="book_cover_height">120dp</dimen>-->
+
+    <!--<dimen name="book_header_height">150dp</dimen>-->
+
+    <!--<dimen name="feed_book_cover_width">40dp</dimen>-->
+    <!--<dimen name="feed_book_cover_height">53dp</dimen>-->
+
+
+    <!--<dimen name="mini_avatar_width">30dp</dimen>-->
+    <!--<dimen name="mini_avatar_height">30dp</dimen>-->
+
+    <!--<dimen name="post_avatar_width">32dp</dimen>-->
+    <!--<dimen name="post_avatar_height">32dp</dimen>-->
+
+    <!--<dimen name="author_avatar_width">17dp</dimen>-->
+    <!--<dimen name="author_avatar_height">17dp</dimen>-->
+
+    <!--<dimen name="play_author_width">30dp</dimen>-->
+    <!--<dimen name="play_author_height">30dp</dimen>-->
+
+    <!--<dimen name="small_avatar_width">40dp</dimen>-->
+    <!--<dimen name="small_avatar_height">40dp</dimen>-->
+
+    <!--<dimen name="medium_avatar_width">90dp</dimen>-->
+    <!--<dimen name="medium_avatar_height">90dp</dimen>-->
+
+    <!--<dimen name="avatar_width">106dp</dimen>-->
+    <!--<dimen name="avatar_height">106dp</dimen>-->
+
+    <!--<dimen name="download_finish_book_cover_width">60dp</dimen>-->
+    <!--<dimen name="download_finish_book_cover_height">80dp</dimen>-->
+
+    <dimen name="divider_dimen">1px</dimen>
+    <dimen name="divider_thick_dimen">1dp</dimen>
+
+    <!--<dimen name="book_font_size_1">12sp</dimen>-->
+    <!--<dimen name="book_font_size_2">14sp</dimen>-->
+    <!--<dimen name="book_font_size_3">16sp</dimen>-->
+    <!--<dimen name="book_font_size_4">18sp</dimen>-->
+    <!--<dimen name="book_font_size_5">20sp</dimen>-->
+    <!--<dimen name="book_font_size_6">22sp</dimen>-->
+    <!--<dimen name="book_font_size_7">24sp</dimen>-->
+    <!--<dimen name="book_font_size_8">26sp</dimen>-->
+    <!--<dimen name="book_font_size_9">28sp</dimen>-->
+    <!--<dimen name="book_font_size_10">30sp</dimen>-->
+    <!--<dimen name="book_font_size_11">32sp</dimen>-->
+
+    <!--<dimen name="book_line_space_1">4.5dp</dimen>-->
+    <!--<dimen name="book_line_space_2">5.25dp</dimen>-->
+    <!--<dimen name="book_line_space_3">6dp</dimen>-->
+    <!--<dimen name="book_line_space_4">6.75dp</dimen>-->
+    <!--<dimen name="book_line_space_5">7.5dp</dimen>-->
+    <!--<dimen name="book_line_space_6">8.25dp</dimen>-->
+    <!--<dimen name="book_line_space_7">9dp</dimen>-->
+    <!--<dimen name="book_line_space_8">9.75dp</dimen>-->
+    <!--<dimen name="book_line_space_9">10.5dp</dimen>-->
+    <!--<dimen name="book_line_space_10">11.25dp</dimen>-->
+    <!--<dimen name="book_line_space_11">12dp</dimen>-->
+
+    <!--<dimen name="book_content_horizontal_margin">20dp</dimen>-->
+    <!--<dimen name="book_content_margin_top">20dp</dimen>-->
+    <!--&lt;!&ndash; bottom info content height including &ndash;&gt;-->
+    <!--<dimen name="book_content_margin_bottom">32dp</dimen>-->
+
+    <!--<dimen name="contribution_list_spacing">13dp</dimen>-->
+
+    <!--<dimen name="feed_cover_width">40dp</dimen>-->
+    <!--<dimen name="feed_cover_height">53dp</dimen>-->
+    <!--<dimen name="feed_avatar_width">40dp</dimen>-->
+    <!--<dimen name="feed_avatar_height">40dp</dimen>-->
+
+    <!--<dimen name="book_info_height">167dp</dimen>-->
+
+    <!--<dimen name="translucent_status_bar_bg_height">169dp</dimen>-->
+    <!--<dimen name="translucent_status_bar_actionbar_height">56dp</dimen>-->
+    <!--<dimen name="translucent_status_bar_padding">0dp</dimen>-->
+    <!--<dimen name="translucent_status_bar_height">0dp</dimen>-->
+    <!--<dimen name="book_detail_cover_margin_top">81dp</dimen>-->
+
+    <!--<dimen name="indicator_size">5dp</dimen>-->
+    <!--<dimen name="indicator_size_selected">7dp</dimen>-->
+    <!--<dimen name="indicator_spacing">7dp</dimen>-->
+
+    <!--<dimen name="volume_grid_vertical_spacing">13dp</dimen>-->
+    <!--<dimen name="volume_grid_horizontal_spacing">13dp</dimen>-->
+
+    <!--<dimen name="volume_avatar_width">27dp</dimen>-->
+    <!--<dimen name="volume_avatar_height">27dp</dimen>-->
+
+    <!--<dimen name="volume_avatar_large_width">87dp</dimen>-->
+    <!--<dimen name="volume_avatar_large_height">87dp</dimen>-->
+
+
+    <!--<dimen name="hot_recommend_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="hot_recommend_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="book_rally_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="book_rally_grid_horizontal_spacing">10dp</dimen>-->
+    <!--<dimen name="book_rally_vertical_spacing">10dp</dimen>-->
+
+    <!--<dimen name="new_book_rally_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="new_book_rally_grid_horizontal_spacing">10dp</dimen>-->
+    <!--<dimen name="new_book_rally_vertical_spacing">10dp</dimen>-->
+
+    <!--<dimen name="day_rank_grid_horizontal_margin_left">2dp</dimen>-->
+    <!--<dimen name="day_rank_grid_horizontal_margin_right">10dp</dimen>-->
+    <!--<dimen name="day_rank_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="gold_rank_grid_horizontal_margin_left">2dp</dimen>-->
+    <!--<dimen name="gold_rank_grid_horizontal_margin_right">10dp</dimen>-->
+    <!--<dimen name="gold_rank_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="hot_new_book_grid_horizontal_margin_left">2dp</dimen>-->
+    <!--<dimen name="hot_new_book_grid_horizontal_margin_right">10dp</dimen>-->
+    <!--<dimen name="hot_new_book_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="random_recommend_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="random_recommend_grid_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="random_recommend_grid_vertical_spacing">16dp</dimen>-->
+
+    <!--<dimen name="padding_to_fix_status_bar">0dp</dimen>-->
+
+    <!--<dimen name="relative_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="relative_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="audits_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="audits_grid_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="audits_grid_vertical_spacing">17dp</dimen>-->
+
+    <!--<dimen name="audits_cover_width">80dp</dimen>-->
+    <!--<dimen name="audits_cover_height">107dp</dimen>-->
+
+
+    <!--<dimen name="brand_horizontal_margin">33dp</dimen>-->
+    <!--<dimen name="brand_horizontal_spacing">66dp</dimen>-->
+    <!--<dimen name="brand_title_margin_top">7dp</dimen>-->
+    <!--<dimen name="brand_title_height">16dp</dimen>-->
+
+    <!--<dimen name="recommend_author_width">73dp</dimen>-->
+    <!--<dimen name="recommend_author_height">73dp</dimen>-->
+
+    <!--<dimen name="recommend_author_grid_horizontal_spacing">53dp</dimen>-->
+
+    <!--<dimen name="transaction_list_vertical_spacing">13dp</dimen>-->
+
+    <!--<dimen name="feed_divider">3dp</dimen>-->
+
+    <!--<dimen name="read_color_setting_size">30dp</dimen>-->
+
+    <dimen name="cover_border_width">1px</dimen>
+    <dimen name="cover_radius">2dp</dimen>
+
+    <!--<dimen name="book_grid_horizontal_margin">13dp</dimen>-->
+    <!--<dimen name="book_grid_vertical_spacing">17dp</dimen>-->
+    <!--<dimen name="book_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="play_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="play_grid_vertical_spacing">10dp</dimen>-->
+    <!--<dimen name="play_grid_horizontal_spacing">10dp</dimen>-->
+
+    <!--<dimen name="import_directory_divider_height">3dp</dimen>-->
+
+    <!--<dimen name="gallery_margin">4dp</dimen>-->
+    <!--<dimen name="gallery_spacing">3dp</dimen>-->
+
+    <!--<dimen name="image_slot_width">77dp</dimen>-->
+    <!--<dimen name="image_slot_height">101dp</dimen>-->
+
+    <!--<dimen name="large_illustration_width">240dp</dimen>-->
+    <!--<dimen name="large_illustration_height">160dp</dimen>-->
+
+    <!--<dimen name="illustration_margin_left">13dp</dimen>-->
+    <!--<dimen name="illustration_margin_right">13dp</dimen>-->
+    <!--<dimen name="illustration_spacing">1dp</dimen>-->
+
+    <!--<dimen name="starter_view_large_illustration_width">240dp</dimen>-->
+    <!--<dimen name="starter_view_large_illustration_height">160dp</dimen>-->
+
+    <!--<dimen name="starter_view_illustration_margin_left">13dp</dimen>-->
+    <!--<dimen name="starter_view_illustration_margin_right">17dp</dimen>-->
+
+    <!--<dimen name="reply_illustration_margin_left">55dp</dimen>-->
+    <!--<dimen name="reply_illustration_margin_right">13dp</dimen>-->
+
+    <!--<dimen name="primary_gender">30dp</dimen>-->
+    <!--<dimen name="secondary_gender">20dp</dimen>-->
+    <!--<dimen name="tertiary_gender">16dp</dimen>-->
+    <!--<dimen name="small_gender">12dp</dimen>-->
+
+    <!--<dimen name="book_category_spacing">7dp</dimen>-->
+
+    <!--<dimen name="charge_selection_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="charge_selection_vertical_spacing">13dp</dimen>-->
+
+    <!--<dimen name="prefer_margin_left">13dp</dimen>-->
+    <!--<dimen name="prefer_margin_right">13dp</dimen>-->
+
+    <!--<dimen name="editor_recommend_grid_horizontal_margin">10dp</dimen>-->
+    <!--<dimen name="editor_recommend_grid_horizontal_spacing">10dp</dimen>-->
+    <!--<dimen name="play_rank_margin_left">1dp</dimen>-->
+    <!--<dimen name="play_rank_margin_right">10dp</dimen>-->
+    <!--<dimen name="play_rank_horizontal_spacing">1dp</dimen>-->
+
+    <!--<dimen name="play_gold_rally_margin">10dp</dimen>-->
+    <!--<dimen name="play_gold_rally_horizontal_spacing">12dp</dimen>-->
+    <!--<dimen name="play_gold_rally_vertical_spacing">10dp</dimen>-->
+
+    <!--<dimen name="play_coin_rally_margin">10dp</dimen>-->
+    <!--<dimen name="play_coin_rally_horizontal_spacing">12dp</dimen>-->
+    <!--<dimen name="play_coin_rally_vertical_spacing">10dp</dimen>-->
+
+    <!--<dimen name="play_grid_title_margin_top">4dp</dimen>-->
+    <!--<dimen name="play_grid_title_height">15dp</dimen>-->
+
+    <!--<dimen name="play_rank_image_margin_left">9dp</dimen>-->
+    <!--<dimen name="play_rank_image_margin_top">12dp</dimen>-->
+
+    <dimen name="thumbnail_width">200dp</dimen>
+    <dimen name="thumbnail_height">200dp</dimen>
+
+    <dimen name="thumbnail_layout_margin">5dp</dimen>
+    <dimen name="thumbnail_content_margin">10dp</dimen>
+</resources>
